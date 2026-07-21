@@ -1,3 +1,3 @@
 # hiding important folders
-/obj/
-/bin/
+src/obj/
+bin/
