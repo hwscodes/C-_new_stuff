@@ -12,6 +12,8 @@ int nAngle(int inp)
 {
     int PoR = (int)System.Math.Floor((double)inp / 180);
    inp -=180*PoR;
+    inp -= 1;
+    inp += 1;
     return(inp);
 }
 Console.WriteLine(nAngle(730));
