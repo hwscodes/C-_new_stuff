@@ -1,0 +1,15 @@
+/home/henry/Acode/Era2/C-_new_stuff/src/bin/Debug/net10.0/C-_new_stuff
+/home/henry/Acode/Era2/C-_new_stuff/src/bin/Debug/net10.0/C-_new_stuff.deps.json
+/home/henry/Acode/Era2/C-_new_stuff/src/bin/Debug/net10.0/C-_new_stuff.runtimeconfig.json
+/home/henry/Acode/Era2/C-_new_stuff/src/bin/Debug/net10.0/C-_new_stuff.dll
+/home/henry/Acode/Era2/C-_new_stuff/src/bin/Debug/net10.0/C-_new_stuff.pdb
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.GeneratedMSBuildEditorConfig.editorconfig
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.AssemblyInfoInputs.cache
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.AssemblyInfo.cs
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.csproj.CoreCompileInputs.cache
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.sourcelink.json
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.dll
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/refint/C-_new_stuff.dll
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.pdb
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/C-_new_stuff.genruntimeconfig.cache
+/home/henry/Acode/Era2/C-_new_stuff/src/obj/Debug/net10.0/ref/C-_new_stuff.dll

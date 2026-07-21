@@ -1,6 +1,6 @@
-var qt = "subtend";
+string qt = "subtend";
 void Asymptote(string a)
 {
-    Console.Write(a);
+    Console.WriteLine(a);
 }
 Asymptote(qt);

@@ -1,2 +1,3 @@
-# hide folder /obja is the goal here
+# hiding important folders
 /obj/
+/bin/
