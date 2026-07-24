@@ -51,6 +51,6 @@ while(true)
     Console.Write(".");
     Thread.Sleep(700);
     Console.Write(".");
-    Thread.Sleep(700);
+    Thread.Sleep(800);
     Console.Clear();
 }
